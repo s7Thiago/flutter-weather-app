@@ -3,7 +3,7 @@
 <table>
 <thead>
   <tr>
-    <th width="500">
+    <th width="600">
 
 <p  align="center">
 
@@ -32,7 +32,7 @@ samples, guidance on mobile development, and a full API reference.
     </th>
     <th >
     <p align="end">
-    <img src="app.gif" height="1000"></img>
+    <img src="app.gif" height="700"></img>
     </p>
     </th>
   </tr>
